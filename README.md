@@ -13,7 +13,7 @@
     <img src="assets/images/logo2.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h2 align="center">dear Canary</h2>
+  <h2 align="center">psychology app by ashhar</h2>
 
   <p align="center">
     An Application for solving the problem of Postmartum Depression.
